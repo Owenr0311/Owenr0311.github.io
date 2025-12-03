@@ -1,4 +1,4 @@
-# Owen Rheaumes Portfolio
+# Owen Rheaume's Portfolio
 
  My name is Owen Rheaume and I am a student at Cal State Fullerton and my major is Cyber Security.
 
